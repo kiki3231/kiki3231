@@ -40,8 +40,16 @@
 ## Github Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiki3231&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiki3231&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  <img height="180em" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="180em" src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img height="180em" src="./profile/streak.svg" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
 </p>
 
 ---
