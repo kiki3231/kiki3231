@@ -20,35 +20,35 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Soft blush palette: muted rose titles, gray body text, pastel icons
+      # Soft blush palette: muted rose titles, dark gray body text, pastel icons
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=FFF8FB&title_color=C45C8A&text_color=5A5A5A&icon_color=E8A0BF&ring_color=E8A0BF&include_all_commits=true&count_private=true
-          path: profile/stats.svg
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=FFF8FB&title_color=C45C8A&text_color=333333&icon_color=D489B0&ring_color=D489B0&include_all_commits=true&count_private=true
+          path: profile/github-stats.svg
           token: ${{ secrets.PAT_TOKEN }}
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&bg_color=FFF8FB&title_color=C45C8A&text_color=5A5A5A
-          path: profile/top-langs.svg
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&bg_color=FFF8FB&title_color=C45C8A&text_color=333333
+          path: profile/github-langs.svg
           token: ${{ secrets.PAT_TOKEN }}
 
       - name: Generate streak card
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=${{ github.repository_owner }}&hide_border=true&background=FFF8FB&stroke=F3D6E4&ring=E8A0BF&fire=E8A0BF&currStreakNum=5A5A5A&sideNums=5A5A5A&currStreakLabel=C45C8A&sideLabels=8A8A8A&dates=8A8A8A&disable_animations=true
-          path: profile/streak.svg
+          options: user=${{ github.repository_owner }}&hide_border=true&background=FFF8FB&stroke=F3D6E4&ring=D489B0&fire=D489B0&currStreakNum=333333&sideNums=333333&currStreakLabel=C45C8A&sideLabels=666666&dates=666666&disable_animations=true
+          path: profile/github-streak.svg
           token: ${{ secrets.PAT_TOKEN }}
 
       - name: Generate trophy card
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
           options: username=${{ github.repository_owner }}&theme=flat&column=4&margin-w=15&margin-h=15
-          path: profile/trophy.svg
+          path: profile/github-trophy.svg
           token: ${{ secrets.PAT_TOKEN }}
 
       - name: Commit cards

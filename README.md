@@ -40,16 +40,16 @@
 ## Github Statistics
 
 <p align="center">
-  <img height="180em" src="./profile/stats.svg?v=3" alt="GitHub Stats" />
-  <img height="180em" src="./profile/top-langs.svg?v=3" alt="Top Languages" />
+  <img height="180em" src="https://raw.githubusercontent.com/kiki3231/kiki3231/master/profile/github-stats.svg" alt="GitHub Stats" />
+  <img height="180em" src="https://raw.githubusercontent.com/kiki3231/kiki3231/master/profile/github-langs.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img height="180em" src="./profile/streak.svg?v=3" alt="GitHub Streak" />
+  <img height="180em" src="https://raw.githubusercontent.com/kiki3231/kiki3231/master/profile/github-streak.svg" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="./profile/trophy.svg?v=3" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/kiki3231/kiki3231/master/profile/github-trophy.svg" alt="GitHub Trophies" />
 </p>
 
 ---
