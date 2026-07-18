@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/kiki3231">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=true&width=560&height=100&lines=Hi+there+%F0%9F%91%8B+I'm+Ado1024;Welcome+to+my+GitHub+Profile!;%E7%B2%89%E8%89%B2%E5%8F%AF%E7%88%B1%E7%B3%BB+%E2%9C%A8+Let's+build+something+fun!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=true&width=560&height=100&lines=Hi+there+%F0%9F%91%8B+I'm+Ado1024;Welcome+to+my+GitHub+Profile!;Let's+build+something+fun!" alt="Typing SVG" />
   </a>
 </p>
 
