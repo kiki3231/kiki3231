@@ -54,6 +54,14 @@
 
 ---
 
+## WakaTime
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/kiki3231/kiki3231@master/profile/github-wakatime.svg?v=soft2" alt="WakaTime Stats" />
+</p>
+
+---
+
 ## Github Contribution
 
 <p align="center">

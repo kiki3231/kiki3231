@@ -51,6 +51,11 @@ jobs:
           path: profile/github-trophy.svg
           token: ${{ secrets.PAT_TOKEN }}
 
+      - name: Generate WakaTime card
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: python3 .github/scripts/generate_wakatime_svg.py
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
