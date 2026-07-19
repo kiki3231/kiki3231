@@ -60,11 +60,18 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin HEAD || true
           git add profile/*.svg
           if git diff --cached --quiet; then
             echo "No card changes"
             exit 0
           fi
           git commit -m "chore: update README stats cards"
-          git push origin HEAD
+          for i in 1 2 3; do
+            git pull --rebase origin master
+            if git push origin HEAD; then
+              exit 0
+            fi
+            echo "Push rejected, retry $i"
+            sleep 3
+          done
+          exit 1
