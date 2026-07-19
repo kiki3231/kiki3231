@@ -54,7 +54,7 @@ jobs:
       - name: Generate WakaTime card
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        run: python3 .github/scripts/generate_wakatime_svg.py
+        run: python3 .github/scripts/generate_wakatime.py
 
       - name: Commit cards
         run: |
