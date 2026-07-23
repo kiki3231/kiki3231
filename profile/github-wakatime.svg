@@ -3,31 +3,31 @@
   <rect width="466" height="296" rx="8" fill="#FFF8FB"/>
   <text x="28" y="36" fill="#C45C8A" font-family="Segoe UI, Ubuntu, sans-serif" font-size="18" font-weight="700">WakaTime · Last 7 Days</text>
   <circle cx="420" cy="30" r="6" fill="#E8A0BF"/>
-  <text x="28" y="64" fill="#333333" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Total Coding: <tspan font-weight="700">8 hrs 50 mins</tspan></text>
-  <text x="250" y="64" fill="#333333" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Daily Avg: <tspan font-weight="700">1 hr 46 mins</tspan></text>
+  <text x="28" y="64" fill="#333333" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Total Coding: <tspan font-weight="700">10 hrs 47 mins</tspan></text>
+  <text x="250" y="64" fill="#333333" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Daily Avg: <tspan font-weight="700">1 hr 47 mins</tspan></text>
 
   <text x="28" y="92" fill="#333333" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="600">Markdown</text>
-  <text x="438" y="92" text-anchor="end" fill="#666666" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">4 hrs 44 mins</text>
+  <text x="438" y="92" text-anchor="end" fill="#666666" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">5 hrs 6 mins</text>
   <rect x="28" y="100" width="410" height="8" rx="4" fill="#F3D6E4"/>
-  <rect x="28" y="100" width="117.5" height="8" rx="4" fill="#D489B0"/>
+  <rect x="28" y="100" width="103.7" height="8" rx="4" fill="#D489B0"/>
 
   <text x="28" y="128" fill="#333333" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="600">Go</text>
-  <text x="438" y="128" text-anchor="end" fill="#666666" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">1 hr 51 mins</text>
+  <text x="438" y="128" text-anchor="end" fill="#666666" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">2 hrs 56 mins</text>
   <rect x="28" y="136" width="410" height="8" rx="4" fill="#F3D6E4"/>
-  <rect x="28" y="136" width="46.0" height="8" rx="4" fill="#D489B0"/>
+  <rect x="28" y="136" width="59.7" height="8" rx="4" fill="#D489B0"/>
 
   <text x="28" y="164" fill="#333333" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="600">Java</text>
   <text x="438" y="164" text-anchor="end" fill="#666666" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">1 hr 12 mins</text>
   <rect x="28" y="172" width="410" height="8" rx="4" fill="#F3D6E4"/>
-  <rect x="28" y="172" width="30.0" height="8" rx="4" fill="#D489B0"/>
+  <rect x="28" y="172" width="24.6" height="8" rx="4" fill="#D489B0"/>
 
   <text x="28" y="200" fill="#333333" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="600">YAML</text>
-  <text x="438" y="200" text-anchor="end" fill="#666666" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">34 mins</text>
+  <text x="438" y="200" text-anchor="end" fill="#666666" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">1 hr</text>
   <rect x="28" y="208" width="410" height="8" rx="4" fill="#F3D6E4"/>
-  <rect x="28" y="208" width="14.1" height="8" rx="4" fill="#D489B0"/>
+  <rect x="28" y="208" width="20.4" height="8" rx="4" fill="#D489B0"/>
 
   <text x="28" y="236" fill="#333333" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="600">XML</text>
   <text x="438" y="236" text-anchor="end" fill="#666666" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">10 mins</text>
   <rect x="28" y="244" width="410" height="8" rx="4" fill="#F3D6E4"/>
-  <rect x="28" y="244" width="4.5" height="8" rx="4" fill="#D489B0"/>
+  <rect x="28" y="244" width="4.0" height="8" rx="4" fill="#D489B0"/>
 </svg>
