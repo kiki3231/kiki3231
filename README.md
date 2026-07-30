@@ -33,6 +33,9 @@
   <a href="https://www.python.org/" target="_blank"><code><img title="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code></a>
   <a href="https://www.docker.com/" target="_blank"><code><img title="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code></a>
   <a href="https://www.kernel.org/" target="_blank"><code><img title="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code></a>
+  <a href="https://www.mysql.com/" target="_blank"><code><img title="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code></a>
+  <a href="https://redis.io/" target="_blank"><code><img title="Redis" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"></code></a>
+  <a href="https://www.postgresql.org/" target="_blank"><code><img title="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code></a>
 </p>
 
 ---
@@ -40,16 +43,16 @@
 ## Github Statistics
 
 <p align="center">
-  <img height="180em" src="https://cdn.jsdelivr.net/gh/kiki3231/kiki3231@master/profile/github-stats.svg?v=soft2" alt="GitHub Stats" />
-  <img height="180em" src="https://cdn.jsdelivr.net/gh/kiki3231/kiki3231@master/profile/github-langs.svg?v=soft2" alt="Top Languages" />
+  <img height="180em" src="./profile/github-stats.svg" alt="GitHub Stats" />
+  <img height="180em" src="./profile/github-langs.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://cdn.jsdelivr.net/gh/kiki3231/kiki3231@master/profile/github-streak.svg?v=soft2" alt="GitHub Streak" />
+  <img height="180em" src="./profile/github-streak.svg" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/kiki3231/kiki3231@master/profile/github-trophy.svg?v=soft2" alt="GitHub Trophies" />
+  <img src="./profile/github-trophy.svg" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -57,7 +60,7 @@
 ## WakaTime
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/kiki3231/kiki3231@master/profile/github-wakatime.svg?v=soft2" alt="WakaTime Stats" />
+  <img src="./profile/github-wakatime.svg" alt="WakaTime Stats" />
 </p>
 
 ---
