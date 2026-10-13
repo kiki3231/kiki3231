@@ -1,10 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="466" height="195" viewBox="0 0 466 195" role="img" aria-label="WakaTime stats">
+<svg xmlns="http://www.w3.org/2000/svg" width="466" height="296" viewBox="0 0 466 296" role="img" aria-label="WakaTime stats">
   <title>WakaTime Stats (Last 7 Days)</title>
-  <rect width="466" height="195" rx="8" fill="#FFF8FB"/>
+  <rect width="466" height="296" rx="8" fill="#FFF8FB"/>
   <text x="28" y="36" fill="#C45C8A" font-family="Segoe UI, Ubuntu, sans-serif" font-size="18" font-weight="700">WakaTime · Last 7 Days</text>
   <circle cx="420" cy="30" r="6" fill="#E8A0BF"/>
-  <text x="28" y="64" fill="#333333" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Total Coding: <tspan font-weight="700">0 secs</tspan></text>
-  <text x="250" y="64" fill="#333333" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Daily Avg: <tspan font-weight="700">0 secs</tspan></text>
+  <text x="28" y="64" fill="#333333" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Total Coding: <tspan font-weight="700">1 hr 15 mins</tspan></text>
+  <text x="250" y="64" fill="#333333" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Daily Avg: <tspan font-weight="700">1 hr 15 mins</tspan></text>
 
-  <text x="28" y="110" fill="#666666" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">No coding activity in the last 7 days</text>
+  <text x="28" y="92" fill="#333333" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="600">JavaScript</text>
+  <text x="438" y="92" text-anchor="end" fill="#666666" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">49 mins</text>
+  <rect x="28" y="100" width="410" height="8" rx="4" fill="#F3D6E4"/>
+  <rect x="28" y="100" width="140.7" height="8" rx="4" fill="#D489B0"/>
+
+  <text x="28" y="128" fill="#333333" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="600">Image (png)</text>
+  <text x="438" y="128" text-anchor="end" fill="#666666" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">9 mins</text>
+  <rect x="28" y="136" width="410" height="8" rx="4" fill="#F3D6E4"/>
+  <rect x="28" y="136" width="27.8" height="8" rx="4" fill="#D489B0"/>
+
+  <text x="28" y="164" fill="#333333" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="600">JSON</text>
+  <text x="438" y="164" text-anchor="end" fill="#666666" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">4 mins</text>
+  <rect x="28" y="172" width="410" height="8" rx="4" fill="#F3D6E4"/>
+  <rect x="28" y="172" width="13.1" height="8" rx="4" fill="#D489B0"/>
+
+  <text x="28" y="200" fill="#333333" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="600">Git Config</text>
+  <text x="438" y="200" text-anchor="end" fill="#666666" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">4 mins</text>
+  <rect x="28" y="208" width="410" height="8" rx="4" fill="#F3D6E4"/>
+  <rect x="28" y="208" width="12.0" height="8" rx="4" fill="#D489B0"/>
+
+  <text x="28" y="236" fill="#333333" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="600">Text</text>
+  <text x="438" y="236" text-anchor="end" fill="#666666" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">3 mins</text>
+  <rect x="28" y="244" width="410" height="8" rx="4" fill="#F3D6E4"/>
+  <rect x="28" y="244" width="10.8" height="8" rx="4" fill="#D489B0"/>
 </svg>
