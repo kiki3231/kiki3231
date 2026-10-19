@@ -1,5 +1,11 @@
 <p align="center">
-  <strong>Adooooooo</strong><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2600&pause=900&color=E7EEF4&center=true&vCenter=true&width=440&height=56&lines=Hi%2C+I'm+Adooooooo;Welcome+to+my+GitHub" />
+    <img alt="Hi, I'm Adooooooo" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2600&pause=900&color=172430&center=true&vCenter=true&width=440&height=56&lines=Hi%2C+I'm+Adooooooo;Welcome+to+my+GitHub" />
+  </picture>
+</p>
+
+<p align="center">
   学生 · 热爱编程与人工智能 · 一切都是兴趣使然
 </p>
 
