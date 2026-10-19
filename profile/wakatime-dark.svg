@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="276" viewBox="0 0 720 276" role="img" aria-label="近 7 天编码 3 hrs 16 mins">
+  <title>近 7 天编码 3 hrs 16 mins</title>
+  <rect x="0.5" y="0.5" width="719" height="275" rx="14" fill="#0E141B" stroke="#2A3A48"/>
+  <text x="24" y="38" fill="#E7EEF4" font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="18" font-weight="600">近 7 天 3 hrs 16 mins · 日均 1 hr 38 mins</text>
+  <text x="24" y="68" fill="#E7EEF4" font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="13">JavaScript</text>
+  <text x="696" y="68" text-anchor="end" fill="#C5D5E0" font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="12">1 hr 55 mins</text>
+  <rect x="150" y="76" width="430" height="8" rx="4" fill="#1B242E"/>
+  <rect x="150" y="76" width="252" height="8" rx="4" fill="#8EC4DC"/>
+  <text x="24" y="104" fill="#E7EEF4" font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="13">Markdown</text>
+  <text x="696" y="104" text-anchor="end" fill="#C5D5E0" font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="12">40 mins</text>
+  <rect x="150" y="112" width="430" height="8" rx="4" fill="#1B242E"/>
+  <rect x="150" y="112" width="88" height="8" rx="4" fill="#8EC4DC"/>
+  <text x="24" y="140" fill="#E7EEF4" font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="13">Image (png)</text>
+  <text x="696" y="140" text-anchor="end" fill="#C5D5E0" font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="12">23 mins</text>
+  <rect x="150" y="148" width="430" height="8" rx="4" fill="#1B242E"/>
+  <rect x="150" y="148" width="50" height="8" rx="4" fill="#8EC4DC"/>
+  <text x="24" y="176" fill="#E7EEF4" font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="13">JSON</text>
+  <text x="696" y="176" text-anchor="end" fill="#C5D5E0" font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="12">6 mins</text>
+  <rect x="150" y="184" width="430" height="8" rx="4" fill="#1B242E"/>
+  <rect x="150" y="184" width="13" height="8" rx="4" fill="#8EC4DC"/>
+  <text x="24" y="212" fill="#E7EEF4" font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="13">Other</text>
+  <text x="696" y="212" text-anchor="end" fill="#C5D5E0" font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="12">5 mins</text>
+  <rect x="150" y="220" width="430" height="8" rx="4" fill="#1B242E"/>
+  <rect x="150" y="220" width="11" height="8" rx="4" fill="#8EC4DC"/>
+  <text x="24" y="260" fill="#C5D5E0" font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="12">更新于 2026-10-16 09:50 CST</text>
+</svg>

@@ -1,76 +1,59 @@
-<p align="center">
-  <a href="https://github.com/kiki3231">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=true&width=560&height=100&lines=Hi+there+%F0%9F%91%8B+I'm+AdoooooYQ;Welcome+to+my+GitHub+Profile!;" alt="Typing SVG" />
-  </a>
-</p>
+把兴趣做成能跑起来的东西。公开的四件作品在下面。桌面游戏搭子用 Go 在写，仓库还没公开。
 
-<p align="center">
-  🎓 <b>学生</b> | 热爱编程与人工智能 · 一切都是兴趣使然
-</p>
+## 作品
 
----
+**[word2gal](https://github.com/kiki3231/word2gal)**
+把一段文字收成可以玩的视觉小说。
 
-## About me
+**[devibe](https://github.com/kiki3231/devibe)**
+终端里的 Git 仪表盘，离线，不用配置。
 
-- 大学学生 / College student
-- 热爱开发、热爱 AI / Passionate about development and AI
-- 一切都是兴趣使然 / Driven purely by curiosity
-- 对动画、游戏、音乐感兴趣 / Interested in anime, games, and music
+**[Grecord](https://github.com/kiki3231/Grecord)**
+给玩过的游戏留一份打卡。
 
----
+**[cloudguard-spring-boot-starter](https://github.com/kiki3231/cloudguard-spring-boot-starter)**
+用注解把限流、幂等、锁和熔断接进 Spring Boot。
 
-## 技术栈
+环境上常用 Docker、Linux、MySQL、Redis 和 PostgreSQL。
 
-<p align="center">
-  <a href="https://www.java.com/" target="_blank"><code><img title="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code></a>
-  <a href="https://go.dev/" target="_blank"><code><img title="Go" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"></code></a>
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><code><img title="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code></a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><code><img title="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code></a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><code><img title="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><code><img title="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code></a>
-  <a href="https://vuejs.org/" target="_blank"><code><img title="Vue.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"></code></a>
-  <a href="https://react.dev/" target="_blank"><code><img title="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code></a>
-  <a href="https://www.python.org/" target="_blank"><code><img title="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code></a>
-  <a href="https://www.docker.com/" target="_blank"><code><img title="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code></a>
-  <a href="https://www.kernel.org/" target="_blank"><code><img title="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code></a>
-  <a href="https://www.mysql.com/" target="_blank"><code><img title="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code></a>
-  <a href="https://redis.io/" target="_blank"><code><img title="Redis" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"></code></a>
-  <a href="https://www.postgresql.org/" target="_blank"><code><img title="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code></a>
-</p>
+## 近况
 
----
-
-## Github Statistics
-
-<p align="center">
-  <img height="180em" src="./profile/github-stats.svg" alt="GitHub Stats" />
-  <img height="180em" src="./profile/github-langs.svg" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img height="180em" src="./profile/github-streak.svg" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="./profile/github-trophy.svg" alt="GitHub Trophies" />
-</p>
-
----
-
-## WakaTime
-
-<p align="center">
-  <img src="./profile/github-wakatime.svg" alt="WakaTime Stats" />
-</p>
-
----
-
-## Github Contribution
-
-<p align="center">
+<p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kiki3231&theme=react-dark&bg_color=00000000&hide_border=true&color=FF69B4&line=FFB6C1&point=FF1493" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kiki3231&theme=react&bg_color=00000000&hide_border=true&color=FF69B4&line=FFB6C1&point=FF1493" />
-    <img alt="GitHub Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kiki3231&theme=react-dark&bg_color=00000000&hide_border=true&color=FF69B4&line=FFB6C1&point=FF1493" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/contrib-dark.svg" />
+    <img alt="过去一年的贡献" src="./profile/contrib-light.svg" />
   </picture>
 </p>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/languages-dark.svg" />
+    <img alt="公开仓库的语言" src="./profile/languages-light.svg" />
+  </picture>
+</p>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/wakatime-dark.svg" />
+    <img alt="近 7 天编码时长" src="./profile/wakatime-light.svg" />
+  </picture>
+</p>
+
+贡献方块把未公开仓库里的提交也算进去了，不显示仓库名。语言按公开仓库的代码量。编码时长来自 WakaTime。三张图每 6 小时重画，图里写着生成时间。
+
+<!--
+维护说明（这段注释不会出现在个人主页上）
+
+本次改动：去掉打字机、图标墙和已经失效的第三方统计图。贡献、语言、编码时长改由仓库内脚本绘制。
+
+更新
+- 工作流：.github/workflows/update-stats.yml
+- 定时：每 6 小时一次，也可在 Actions 里手动运行 Update profile stats
+- 本地试跑：设置 GH_TOKEN 或 PAT_TOKEN 后执行 python .github/scripts/generate_profile.py
+
+密钥
+- PAT_TOKEN：需要能读取你名下的仓库，包含未公开仓库。失效时工作流会改用 Actions 自带令牌，那种令牌看不到未公开仓库，脚本会保留上一版贡献图，避免把私有提交刷掉。
+- WAKATIME_API_KEY：WakaTime 的 API Secret。缺失时保留上一版编码时长图。
+
+强制只用公开数据重画：在工作流里设置 FORCE_PUBLIC=1。
+-->
